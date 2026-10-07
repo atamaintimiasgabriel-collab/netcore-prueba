@@ -1,0 +1,31 @@
+# Visual Studio / .NET Core
+.vs/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
+
+# Archivos de configuración de usuario
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.rsuser
+*.userprefs
+
+# Archivos temporales y de caché
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Mac
+.DS_Store
+
+# Opcional: ignorar las variables de entorno de desarrollo locales
+appsettings.Development.json
+appsettings.Local.json
